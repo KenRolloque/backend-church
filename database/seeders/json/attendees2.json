@@ -1,0 +1,182 @@
+[
+    {
+      "attendees_fname": "Edward",
+      "attendees_mname": "T",
+      "attendees_lname": "Robinson",
+      "attendees_birthday": "1989-08-16",
+      "attendees_mobile_number": "+639122345679",
+      "attendees_facebook": "edward.robinson",
+      "attendees_life_stage": "Single Parent",
+      "attendees_sector_of_society": "Private Sector",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "5pm Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Ronald",
+      "attendees_mname": "U",
+      "attendees_lname": "Clark",
+      "attendees_birthday": "1977-09-30",
+      "attendees_mobile_number": "+639123456782",
+      "attendees_facebook": "ronald.clark",
+      "attendees_life_stage": "Married / Parent",
+      "attendees_sector_of_society": "Government",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "11am Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Anthony",
+      "attendees_mname": "V",
+      "attendees_lname": "Rodriguez",
+      "attendees_birthday": "1990-10-05",
+      "attendees_mobile_number": "+639124567892",
+      "attendees_facebook": "anthony.rodriguez",
+      "attendees_life_stage": "Single",
+      "attendees_sector_of_society": "Business",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "3pm Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Mark",
+      "attendees_mname": "W",
+      "attendees_lname": "Lewis",
+      "attendees_birthday": "1981-11-14",
+      "attendees_mobile_number": "+639125678903",
+      "attendees_facebook": "mark.lewis",
+      "attendees_life_stage": "Youth",
+      "attendees_sector_of_society": "Student",
+      "attendees_school": "none",
+      "attendees_school_level": "Primary",
+      "attendees_service_commitment": "Youth Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Steven",
+      "attendees_mname": "X",
+      "attendees_lname": "Lee",
+      "attendees_birthday": "1992-12-20",
+      "attendees_mobile_number": "+639126789014",
+      "attendees_facebook": "steven.lee",
+      "attendees_life_stage": "Single",
+      "attendees_sector_of_society": "At Home",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "5pm Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Eric",
+      "attendees_mname": "Y",
+      "attendees_lname": "Walker",
+      "attendees_birthday": "1988-01-03",
+      "attendees_mobile_number": "+639127890125",
+      "attendees_facebook": "eric.walker",
+      "attendees_life_stage": "Widow / Widower",
+      "attendees_sector_of_society": "Health Care",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "9am Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Stephen",
+      "attendees_mname": "Z",
+      "attendees_lname": "Hall",
+      "attendees_birthday": "1983-02-27",
+      "attendees_mobile_number": "+639128901236",
+      "attendees_facebook": "stephen.hall",
+      "attendees_life_stage": "Married / Parent",
+      "attendees_sector_of_society": "Private Sector",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "11am Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Larry",
+      "attendees_mname": "A",
+      "attendees_lname": "Allen",
+      "attendees_birthday": "1985-03-15",
+      "attendees_mobile_number": "+639129012347",
+      "attendees_facebook": "larry.allen",
+      "attendees_life_stage": "Single",
+      "attendees_sector_of_society": "Education",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "3pm Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Timothy",
+      "attendees_mname": "B",
+      "attendees_lname": "Young",
+      "attendees_birthday": "1976-04-08",
+      "attendees_mobile_number": "+639120123458",
+      "attendees_facebook": "timothy.young",
+      "attendees_life_stage": "Single Parent",
+      "attendees_sector_of_society": "Business",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "5pm Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Jason",
+      "attendees_mname": "C",
+      "attendees_lname": "Hernandez",
+      "attendees_birthday": "1991-05-22",
+      "attendees_mobile_number": "+639121234569",
+      "attendees_facebook": "jason.hernandez",
+      "attendees_life_stage": "Youth",
+      "attendees_sector_of_society": "At Home",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "Youth Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Jeffrey",
+      "attendees_mname": "D",
+      "attendees_lname": "King",
+      "attendees_birthday": "1984-06-14",
+      "attendees_mobile_number": "+639122345670",
+      "attendees_facebook": "jeffrey.king",
+      "attendees_life_stage": "Single",
+      "attendees_sector_of_society": "Health Care",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "9am Service",
+      "admin_id": 1
+
+    },
+    {
+      "attendees_fname": "Frank",
+      "attendees_mname": "E",
+      "attendees_lname": "Wright",
+      "attendees_birthday": "1993-07-29",
+      "attendees_mobile_number": "+639123456783",
+      "attendees_facebook": "frank.wright",
+      "attendees_life_stage": "Single Parent",
+      "attendees_sector_of_society": "Private Sector",
+      "attendees_school": "none",
+      "attendees_school_level": "None",
+      "attendees_service_commitment": "5pm Service",
+      "admin_id": 1
+
+    }
+  ]

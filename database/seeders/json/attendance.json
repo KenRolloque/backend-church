@@ -1,0 +1,848 @@
+
+[
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-07",
+    "service_id": 1,
+    "attendance_kids": 20,
+    "attendance_adults": 110,
+    "attendance_foreigner": 7,
+    "attendance_toddlers": 15,
+    "attendance_total": 152
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-07",
+    "service_id": 2,
+    "attendance_kids": 25,
+    "attendance_adults": 105,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 10,
+    "attendance_total": 145
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-07",
+    "service_id": 3,
+    "attendance_kids": 15,
+    "attendance_adults": 120,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 20,
+    "attendance_total": 158
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-07",
+    "service_id": 4,
+    "attendance_kids": 10,
+    "attendance_adults": 115,
+    "attendance_foreigner": 9,
+    "attendance_toddlers": 5,
+    "attendance_total": 139
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-14",
+    "service_id": 1,
+    "attendance_kids": 18,
+    "attendance_adults": 115,
+    "attendance_foreigner": 8,
+    "attendance_toddlers": 12,
+    "attendance_total": 153
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-14",
+    "service_id": 2,
+    "attendance_kids": 22,
+    "attendance_adults": 105,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 18,
+    "attendance_total": 149
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-14",
+    "service_id": 3,
+    "attendance_kids": 12,
+    "attendance_adults": 110,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 25,
+    "attendance_total": 153
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-14",
+    "service_id": 4,
+    "attendance_kids": 8,
+    "attendance_adults": 120,
+    "attendance_foreigner": 2,
+    "attendance_toddlers": 7,
+    "attendance_total": 137
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-21",
+    "service_id": 1,
+    "attendance_kids": 23,
+    "attendance_adults": 120,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 8,
+    "attendance_total": 157
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-21",
+    "service_id": 2,
+    "attendance_kids": 28,
+    "attendance_adults": 115,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 17,
+    "attendance_total": 163
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-21",
+    "service_id": 3,
+    "attendance_kids": 17,
+    "attendance_adults": 110,
+    "attendance_foreigner": 9,
+    "attendance_toddlers": 22,
+    "attendance_total": 167
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-21",
+    "service_id": 4,
+    "attendance_kids": 11,
+    "attendance_adults": 105,
+    "attendance_foreigner": 1,
+    "attendance_toddlers": 14,
+    "attendance_total": 131
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-28",
+    "service_id": 1,
+    "attendance_kids": 19,
+    "attendance_adults": 110,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 21,
+    "attendance_total": 154
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-28",
+    "service_id": 2,
+    "attendance_kids": 24,
+    "attendance_adults": 120,
+    "attendance_foreigner": 7,
+    "attendance_toddlers": 11,
+    "attendance_total": 162
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-28",
+    "service_id": 3,
+    "attendance_kids": 14,
+    "attendance_adults": 105,
+    "attendance_foreigner": 2,
+    "attendance_toddlers": 19,
+    "attendance_total": 140
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-01-28",
+    "service_id": 4,
+    "attendance_kids": 9,
+    "attendance_adults": 115,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 16,
+    "attendance_total": 145
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-04",
+    "service_id": 1,
+    "attendance_kids": 21,
+    "attendance_adults": 115,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 14,
+    "attendance_total": 156
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-04",
+    "service_id": 2,
+    "attendance_kids": 26,
+    "attendance_adults": 110,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 23,
+    "attendance_total": 162
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-04",
+    "service_id": 3,
+    "attendance_kids": 16,
+    "attendance_adults": 120,
+    "attendance_foreigner": 9,
+    "attendance_toddlers": 9,
+    "attendance_total": 154
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-04",
+    "service_id": 4,
+    "attendance_kids": 12,
+    "attendance_adults": 105,
+    "attendance_foreigner": 1,
+    "attendance_toddlers": 28,
+    "attendance_total": 146
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-11",
+    "service_id": 1,
+    "attendance_kids": 17,
+    "attendance_adults": 120,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 7,
+    "attendance_total": 149
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-11",
+    "service_id": 2,
+    "attendance_kids": 20,
+    "attendance_adults": 110,
+    "attendance_foreigner": 2,
+    "attendance_toddlers": 26,
+    "attendance_total": 158
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-11",
+    "service_id": 3,
+    "attendance_kids": 13,
+    "attendance_adults": 105,
+    "attendance_foreigner": 8,
+    "attendance_toddlers": 13,
+    "attendance_total": 139
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-11",
+    "service_id": 4,
+    "attendance_kids": 7,
+    "attendance_adults": 115,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 18,
+    "attendance_total": 144
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-18",
+    "service_id": 1,
+    "attendance_kids": 22,
+    "attendance_adults": 105,
+    "attendance_foreigner": 7,
+    "attendance_toddlers": 16,
+    "attendance_total": 150
+  },
+ 
+
+ {
+    "admin_id": 1,
+    "attendance_date": "2024-02-18",
+    "service_id": 2,
+    "attendance_kids": 25,
+    "attendance_adults": 120,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 21,
+    "attendance_total": 169
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-18",
+    "service_id": 3,
+    "attendance_kids": 11,
+    "attendance_adults": 115,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 14,
+    "attendance_total": 145
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-18",
+    "service_id": 4,
+    "attendance_kids": 9,
+    "attendance_adults": 110,
+    "attendance_foreigner": 2,
+    "attendance_toddlers": 17,
+    "attendance_total": 138
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-25",
+    "service_id": 1,
+    "attendance_kids": 20,
+    "attendance_adults": 110,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 18,
+    "attendance_total": 152
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-25",
+    "service_id": 2,
+    "attendance_kids": 27,
+    "attendance_adults": 115,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 22,
+    "attendance_total": 190
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-25",
+    "service_id": 3,
+    "attendance_kids": 15,
+    "attendance_adults": 125,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 20,
+    "attendance_total": 163
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-02-25",
+    "service_id": 4,
+    "attendance_kids": 11,
+    "attendance_adults": 112,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 17,
+    "attendance_total": 145
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-03",
+    "service_id": 1,
+    "attendance_kids": 24,
+    "attendance_adults": 130,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 19,
+    "attendance_total": 178
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-03",
+    "service_id": 2,
+    "attendance_kids": 21,
+    "attendance_adults": 120,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 14,
+    "attendance_total": 161
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-03",
+    "service_id": 3,
+    "attendance_kids": 18,
+    "attendance_adults": 125,
+    "attendance_foreigner": 8,
+    "attendance_toddlers": 10,
+    "attendance_total": 159
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-03",
+    "service_id": 4,
+    "attendance_kids": 10,
+    "attendance_adults": 115,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 20,
+    "attendance_total": 149
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-10",
+    "service_id": 1,
+    "attendance_kids": 22,
+    "attendance_adults": 135,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 15,
+    "attendance_total": 176
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-10",
+    "service_id": 2,
+    "attendance_kids": 23,
+    "attendance_adults": 125,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 12,
+    "attendance_total": 165
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-10",
+    "service_id": 3,
+    "attendance_kids": 20,
+    "attendance_adults": 130,
+    "attendance_foreigner": 7,
+    "attendance_toddlers": 11,
+    "attendance_total": 168
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-10",
+    "service_id": 4,
+    "attendance_kids": 11,
+    "attendance_adults": 110,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 18,
+    "attendance_total": 142
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-17",
+    "service_id": 1,
+    "attendance_kids": 25,
+    "attendance_adults": 140,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 13,
+    "attendance_total": 184
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-17",
+    "service_id": 2,
+    "attendance_kids": 28,
+    "attendance_adults": 130,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 17,
+    "attendance_total": 179
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-17",
+    "service_id": 3,
+    "attendance_kids": 21,
+    "attendance_adults": 125,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 12,
+    "attendance_total": 163
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-17",
+    "service_id": 4,
+    "attendance_kids": 15,
+    "attendance_adults": 120,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 10,
+    "attendance_total": 148
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-24",
+    "service_id": 1,
+    "attendance_kids": 20,
+    "attendance_adults": 135,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 16,
+    "attendance_total": 176
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-24",
+    "service_id": 2,
+    "attendance_kids": 24,
+    "attendance_adults": 128,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 21,
+    "attendance_total": 176
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-24",
+    "service_id": 3,
+    "attendance_kids": 19,
+    "attendance_adults": 122,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 15,
+    "attendance_total": 162
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-24",
+    "service_id": 4,
+    "attendance_kids": 14,
+    "attendance_adults": 115,
+    "attendance_foreigner": 2,
+    "attendance_toddlers": 18,
+    "attendance_total": 149
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-31",
+    "service_id": 1,
+    "attendance_kids": 22,
+    "attendance_adults": 140,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 17,
+    "attendance_total": 182
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-31",
+    "service_id": 2,
+    "attendance_kids": 30,
+    "attendance_adults": 130,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 20,
+    "attendance_total": 185
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-31",
+   
+
+ "service_id": 3,
+    "attendance_kids": 16,
+    "attendance_adults": 128,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 13,
+    "attendance_total": 169
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-03-31",
+    "service_id": 4,
+    "attendance_kids": 13,
+    "attendance_adults": 115,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 19,
+    "attendance_total": 151
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-07",
+    "service_id": 1,
+    "attendance_kids": 25,
+    "attendance_adults": 138,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 15,
+    "attendance_total": 183
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-07",
+    "service_id": 2,
+    "attendance_kids": 29,
+    "attendance_adults": 129,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 23,
+    "attendance_total": 185
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-07",
+    "service_id": 3,
+    "attendance_kids": 22,
+    "attendance_adults": 130,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 12,
+    "attendance_total": 172
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-07",
+    "service_id": 4,
+    "attendance_kids": 12,
+    "attendance_adults": 114,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 20,
+    "attendance_total": 151
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-14",
+    "service_id": 1,
+    "attendance_kids": 23,
+    "attendance_adults": 140,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 17,
+    "attendance_total": 186
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-14",
+    "service_id": 2,
+    "attendance_kids": 27,
+    "attendance_adults": 135,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 16,
+    "attendance_total": 183
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-14",
+    "service_id": 3,
+    "attendance_kids": 20,
+    "attendance_adults": 126,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 14,
+    "attendance_total": 164
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-14",
+    "service_id": 4,
+    "attendance_kids": 10,
+    "attendance_adults": 118,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 19,
+    "attendance_total": 150
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-21",
+    "service_id": 1,
+    "attendance_kids": 24,
+    "attendance_adults": 132,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 18,
+    "attendance_total": 178
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-21",
+    "service_id": 2,
+    "attendance_kids": 30,
+    "attendance_adults": 137,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 21,
+    "attendance_total": 193
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-21",
+    "service_id": 3,
+    "attendance_kids": 15,
+    "attendance_adults": 124,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 12,
+    "attendance_total": 157
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-21",
+    "service_id": 4,
+    "attendance_kids": 12,
+    "attendance_adults": 116,
+    "attendance_foreigner": 3,
+    "attendance_toddlers": 17,
+    "attendance_total": 148
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-28",
+    "service_id": 1,
+    "attendance_kids": 20,
+    "attendance_adults": 140,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 15,
+    "attendance_total": 181
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-28",
+    "service_id": 2,
+    "attendance_kids": 28,
+    "attendance_adults": 130,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 21,
+    "attendance_total": 184
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-28",
+    "service_id": 3,
+    "attendance_kids": 19,
+    "attendance_adults": 122,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 15,
+    "attendance_total": 160
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-04-28",
+    "service_id": 4,
+    "attendance_kids": 14,
+    "attendance_adults": 117,
+    "attendance_foreigner": 2,
+    "attendance_toddlers": 18,
+    "attendance_total": 151
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-05",
+    "service_id": 1,
+    "attendance_kids": 24,
+    "attendance_adults": 145,
+    "attendance_foreigner": 7,
+    "attendance_toddlers": 13,
+    "attendance_total": 189
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-05",
+    "service_id": 2,
+    "attendance_kids": 32,
+    "attendance_adults": 139,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 15,
+    "attendance_total": 190
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-05",
+    "service_id": 3,
+    "attendance_kids": 18,
+    "attendance_adults": 130,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 12,
+    "attendance_total": 165
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-05",
+    "service_id": 4,
+    "attendance_kids": 14,
+    "attendance_adults": 120,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 10,
+    "attendance_total": 150
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-12",
+    "service_id": 1,
+    "attendance_kids": 25,
+    "attendance_adults": 140,
+    "attendance_foreigner": 8,
+    "attendance_toddlers": 17,
+    "attendance_total": 190
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-12",
+    "service_id": 2,
+    "attendance_kids": 30,
+    "attendance_adults": 135,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 18,
+    "attendance_total": 189
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-12",
+    "service_id": 3,
+    "attendance_kids": 22,
+    "attendance_adults": 130,
+    "attendance_foreigner": 7,
+    "attendance_toddlers": 12,
+    "attendance_total": 193
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-12",
+    "service_id": 4,
+    "attendance_kids": 11,
+    "attendance_adults": 118,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 19,
+    "attendance_total": 153
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-19",
+    "service_id": 1,
+    "attendance_kids": 20,
+    "attendance_adults": 145,
+    "attendance_foreigners": 5,
+    "attendance_toddlers": 16,
+    "attendance_total": 186
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-19",
+    "service_id": 2,
+    "attendance_kids": 29,
+    "attendance_adults": 138,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 19,
+    "attendance_total": 192
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-19",
+    "service_id": 3,
+    "attendance_kids": 24,
+    "attendance_adults": 125,
+    "attendance_foreigner": 7,
+    "attendance_toddlers": 15,
+    "attendance_total": 171
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-19",
+    "service_id": 4,
+    "attendance_kids": 15,
+    "attendance_adults": 114,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 18,
+    "attendance_total": 151
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-26",
+    "service_id": 1,
+    "attendance_kids": 22,
+    "attendance_adults": 150,
+    "attendance_foreigner": 8,
+    "attendance_toddlers": 12,
+    "attendance_total": 192
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-26",
+    "service_id": 2,
+    "attendance_kids": 26,
+    "attendance_adults": 130,
+    "attendance_foreigner": 5,
+    "attendance_toddlers": 20,
+    "attendance_total": 181
+  },
+  {
+    "admin_id": 1,
+    "attendance_date":  "2024-05-26",
+    "service_id": 3,
+    "attendance_kids": 16,
+    "attendance_adults": 135,
+    "attendance_foreigner": 6,
+    "attendance_toddlers": 15,
+    "attendance_total": 172
+  },
+  {
+    "admin_id": 1,
+    "attendance_date": "2024-05-26",
+    "service_id": 4,
+    "attendance_kids": 10,
+    "attendance_adults": 120,
+    "attendance_foreigner": 4,
+    "attendance_toddlers": 21,
+    "attendance_total": 155
+  }
+  
+]
